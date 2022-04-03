@@ -17,7 +17,7 @@ python3 Host-Discovery.py your_IP_Address
 
 # Example
 
-
+![alt text](https://github.com/CronoX1/Host-Discovery/blob/main/images/usageHD.png)
 
 # Notes
 
