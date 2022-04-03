@@ -1,7 +1,7 @@
 # Host-Discovery
 
 Python3 script to discover diferent hosts on a /24 Network by ICMP protocol and save it in a text file. 
-It can also detect the operative system running on it (Windows or Linux).
+It can also detect the operative system running on it (Windows or Linux) and work in both operative systems.
 
 # How to install it
 
