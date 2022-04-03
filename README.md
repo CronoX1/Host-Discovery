@@ -21,4 +21,4 @@ python3 Host-Discovery.py your_IP_Address
 
 # Notes
 
-In Linux, the script can discover all the hosts in under a minute and a half, in Windows unfortunatly takes atleast 15 min, still in development to improve this, if someone knows how to do it, please, let me know!!
+In Linux, the script can discover all the hosts in under a minute and a half, in Windows unfortunatly takes up to 15 min., still in development to improve this, if someone knows how to do it, please, let me know!!
