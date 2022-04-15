@@ -1,7 +1,7 @@
 import platform, os, sys
 
 if len(sys.argv) != 2 or sys.argv[1] == 'h' or sys.argv[1] == 'help':
-    print('Usage: python3 Host-Discovery.py "your IP address"')
+    print('[+] Usage: python3 Host-Discovery.py "your IP address"')
     exit()
 
 nocolor = "\033[0;37;10m"
